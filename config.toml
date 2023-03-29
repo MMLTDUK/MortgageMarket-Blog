@@ -1,0 +1,24 @@
+baseURL = 'https://blog.mortgagemarket.uk.com/'
+languageCode = 'en'
+defaultContentLanguage = "en"
+enableEmoji = true
+title = 'Mortgage Market | Blog'
+copyright = 'No.1 Mortgage Market LTD'
+theme = 'hugo-theme-itheme'
+tags = ["mortgage", "market", "UK", "GCC", "blog"]
+paginate = 5
+
+[params]
+  keyword = "Mortgage Market, UK, Blog, GCC"
+  defaultCover = 'https://mortgagemarket.uk.com/images/logo2.png'
+  [[params.socialMedia]]
+    name = 'Twitter'
+    url = 'https://twitter.com/no1mortgageUK'
+  [[params.socialMedia]]
+  name = 'Instagram'
+  url = 'https://www.instagram.com/no1mortgagemarketltd/'
+
+  [[params.blogroll]]
+  name = 'Sitemap'
+  url = '/sitemap.xml'
+
