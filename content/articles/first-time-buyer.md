@@ -8,7 +8,7 @@ tags: [FirstTimeBuyers]
 theme: "light"
 ---
 
-![blog thumbnail](/images/articles/first-time-buyer/main.png)
+![Post Thumbnail | inline](/images/articles/first-time-buyer/main.png)
 
 Buying a property can be an exciting and daunting experience, especially when you are getting a mortgage for the first time in the UK. It can be overwhelming to navigate through the mortgage process, especially if you don't have prior experience or knowledge. However, with careful consideration and research, you can make the right decisions and secure the best mortgage deal for your needs. In this blog, we will discuss the things to be careful about when buying or getting a mortgage for the first time in the UK.
 
