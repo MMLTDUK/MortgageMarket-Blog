@@ -8,6 +8,8 @@ tags: ["Energy Bills"]
 theme: "light"
 ---
 
+![](/images/articles/97m-plan-energy-bills/main.png)
+
 Greater Manchester has announced plans to invest £97m in improving the energy efficiency of social housing. The investment is set to benefit 5,482 homes in the region, with the average annual energy bill projected to decrease by £276.78 per household.
 
 The investment will come from a £37m grant from the UK government’s Social Housing Decarbonisation Fund, with an additional £60m coming from local councils and housing associations. The retrofit work will involve installing improved insulation, air source heat pumps, solar panels, draught-proofing, ventilation and heating controls.
