@@ -1,6 +1,6 @@
 ---
 title: "First-Time Buyers in the UK: 6 Things to Be Careful About When Getting a Mortgage"
-date: 2023-03-20
+date: 2023-04-01
 description: "First-time buyers in the UK, don't miss out on these 6 crucial tips for getting a mortgage. Read on to secure the best deal for your needs. #mortgages #firsttimebuyers"
 author: "Ejaz Barri"
 cover: "/images/articles/first-time-buyer/main.png"
