@@ -3,7 +3,7 @@ title: "Current UK Mortgage Rates"
 date: 2023-04-15
 description: "Stay up-to-date on UK mortgage rates as they change regularly. Find current average rates for fixed-term mortgages based on LTV and deposit amounts."
 author: "Ejaz Barri"
-cover: "/images/articles/april-mortgage-rates/main.png"
+cover: "/images/articles/april-mortgage-rates/main.jpg"
 tags: ["Mortgage"]
 theme: "light"
 ---
