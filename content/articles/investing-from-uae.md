@@ -3,7 +3,7 @@ title: "A Comprehensive Guide to Buying Mortgages in the UK: A Perspective for U
 date: 2023-05-25
 description: "Explore the UK mortgage market, financing options, and legal considerations for successful property investments."
 author: "Ejaz Barri"
-cover: "/images/articles/investing-from-uae/main.jpg"
+cover: "/images/articles/investing-from-uae/main.webp"
 tags: ["Mortgage"]
 theme: "light"
 ---
