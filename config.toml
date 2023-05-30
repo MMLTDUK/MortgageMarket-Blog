@@ -6,11 +6,11 @@ title = 'Mortgage Market | Blog'
 copyright = 'No.1 Mortgage Market LTD'
 theme = 'hugo-theme-itheme'
 tags = ["mortgage", "market", "UK", "GCC", "blog"]
-paginate = 5
+paginate = 4
 
 [params]
   keyword = "Mortgage Market, UK, Blog, GCC"
-  defaultCover = 'https://mortgagemarket.uk.com/images/logo2.png'
+  defaultCover = 'https://mortgagemarket.uk.com/favicon.ico'
   [[params.socialMedia]]
     name = 'Twitter'
     url = 'https://twitter.com/no1mortgageUK'
