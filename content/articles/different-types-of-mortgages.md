@@ -1,6 +1,6 @@
 ---
 title: "Understanding the Different Types of Mortgages: A Comprehensive Guide"
-date: 2023-06-25
+date: 2023-06-26
 description: "Learn about different mortgages and what is right for you so you get the best for you and your family."
 author: "Ejaz Barri"
 cover: "/images/articles/different-types-of-mortgages/main.jpg"
